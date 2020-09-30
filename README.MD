@@ -13,6 +13,7 @@ See the full [documentation](https://bansal.io/pattern-css)
 - Supports all modern browsers
 - Built Using SCSS.
 - Full color control.
+- Amazing backgfound patterns for web components with pure CSS.
 
 ## Installation
 
